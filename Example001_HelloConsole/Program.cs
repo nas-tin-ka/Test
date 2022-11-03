@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, милый Мурркот!");
+﻿Console.WriteLine("Hello, милый Мурркотик!");
